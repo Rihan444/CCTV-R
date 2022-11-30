@@ -39,6 +39,8 @@ git clone https://github.com/Rihan444/CCTV-R
 
 cd CCTV-R
 
+pip install -r requirements.txt
+
 chmod +x *
 
 python CCTV-R.py
